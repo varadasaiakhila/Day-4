@@ -1,5 +1,5 @@
 # rock paper scissors game
-# create a list with ['rock', 'paper', 'scissors']
+# create a list
 # let the computer randomly choose one of it
 # take user input
 # compute the two and display the results
