@@ -8,6 +8,7 @@ import random
 
 print("WELCOME TO PY ROCK PAPER SCISSORS")
 l = ['rock', 'paper', 'scissors']
+
 # since you cant directly randomise the list, take the lenght of it and then  randomise to generate a random element
 
 comp_choice = random.choice(l)
